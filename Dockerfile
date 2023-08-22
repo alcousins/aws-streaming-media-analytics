@@ -1,4 +1,4 @@
-FROM lambci/lambda:build-nodejs12.x
+FROM lambci/lambda:build-nodejs14.x
 
 WORKDIR /tmp
 
