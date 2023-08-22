@@ -5,7 +5,7 @@ Description: QoS - Player with event capture, ingest and processing implementati
 Mappings:
     SourceCodeBucket:
       General:
-        S3Bucket: 'ganeshji-codedeployus'
+        S3Bucket: 'sourcebuckethere'
         LambdaUIDeploymentCodePrefix: 'qos/lambda-functions/ui-deployment'
         RecentVideoViewAppSyncCodePrefix: 'qos/lambda-functions/recentvideoview-appsync-function'
         TotalVideoViewAppSyncCodePrefix: 'qos/lambda-functions/totalvideoview-appsync-function'
